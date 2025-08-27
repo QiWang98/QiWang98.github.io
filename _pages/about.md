@@ -26,4 +26,4 @@ Research Interests
 
 Academic Services
 + PC Member: MICCAI'25, etc.
-+ Journal Reviewer: MTAP, etc.
++ Journal Reviewer: MTA, etc.
