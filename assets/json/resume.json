@@ -67,7 +67,7 @@
   "publications": [
     {
       "name": "VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning",
-      "publisher": "arXiv",
+      "publisher": "NeurIPS",
       "releaseDate": "2025",
       "url": "https://arxiv.org/abs/2505.12434",
       "summary": ""
