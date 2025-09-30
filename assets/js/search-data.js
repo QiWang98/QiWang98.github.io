@@ -55,12 +55,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Homepage/";
-            },},{id: "news-our-paper-videorft-has-been-accepted-to-neurips-2025",
-          title: 'Our paper VideoRFT has been accepted to NeurIPS 2025.',
+            },},{id: "news-",
+          title: '',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/VideoRFT_NeurIPS25/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
