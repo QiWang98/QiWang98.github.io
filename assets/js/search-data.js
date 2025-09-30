@@ -53,9 +53,7 @@ ninja.data = [{
             },},{id: "news-my-personal-homepage-is-currently-under-development",
           title: 'My personal homepage is currently under development.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/Homepage/";
-            },},{id: "news-our-paper-videorft-has-been-accepted-to-neurips-2025",
+          section: "News",},{id: "news-our-paper-videorft-has-been-accepted-to-neurips-2025",
           title: 'Our paper VideoRFT has been accepted to NeurIPS 2025.',
           description: "",
           section: "News",},{id: "projects-project-1",
