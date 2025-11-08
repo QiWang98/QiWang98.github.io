@@ -50,8 +50,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-videorft-has-been-accepted-to-neurips-2025",
-          title: 'Our paper “VideoRFT” has been accepted to NeurIPS 2025.',
+            },},{id: "news-our-paper-videorft-accepted-to-neurips-2025",
+          title: 'Our Paper “VideoRFT” Accepted to NeurIPS 2025!',
           description: "",
           section: "News",},{id: "news-our-paper-abductivemllm-accepted-as-oral-presentation-at-aaai-2026",
           title: 'Our Paper “AbductiveMLLM” Accepted as Oral Presentation at AAAI 2026!',
