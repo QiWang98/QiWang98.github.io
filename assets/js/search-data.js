@@ -51,7 +51,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-our-paper-videorft-has-been-accepted-to-neurips-2025",
-          title: 'Our paper VideoRFT has been accepted to NeurIPS 2025.',
+          title: 'Our paper “VideoRFT” has been accepted to NeurIPS 2025.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
