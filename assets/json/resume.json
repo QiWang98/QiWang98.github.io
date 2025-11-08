@@ -57,11 +57,11 @@
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
+      "title": "China National Scholarship",
+      "date": "2024-2025 Academic Year",
+      "awarder": "China's Ministry of Education",
       "url": "",
-      "summary": "'"
+      "summary": "Roughly top 2% honor for Chinese undergrad/postgrad students."
     }
   ],
   "publications": [
@@ -70,6 +70,12 @@
       "publisher": "NeurIPS",
       "releaseDate": "2025",
       "url": "https://arxiv.org/abs/2505.12434",
+      "summary": ""
+    },
+    {
+      "name": "AbductiveMLLM: Boosting Visual Abductive Reasoning within MLLMs",
+      "publisher": "AAAI (Oral)",
+      "releaseDate": "2026",
       "summary": ""
     },
     {
