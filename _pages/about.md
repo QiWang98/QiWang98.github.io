@@ -25,5 +25,5 @@ Research Interests
 + Graph Representation Learning
 
 Academic Services
-+ PC Member: CVPR'26, MICCAI'25, etc.
-+ Journal Reviewer: TKDE, MTA, etc.
++ PC Member: CVPR'26, ECCV'26, MICCAI'25, etc.
++ Journal Reviewer: TKDE, TKDD, MTA, etc.
