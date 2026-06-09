@@ -21,9 +21,11 @@ announcements:
 👋 Hi! I'm currently a PhD candidate in Computer Technology at [Beijing Institute of Technology](https://www.bit.edu.cn/), jointly advised by [Prof. Tianfei Zhou](https://www.tfzhou.com/) and [Prof. Ye Yuan](https://dblp.uni-trier.de/pid/33/6315-1.html). I received my M.Eng. in Artificial Intelligence (2024) and B.Eng. in Energy and Power Engineering (2021) from [Northeastern University (China)](https://neu.edu.cn/), where I was advised by Prof. Ye Yuan during my master's studies. Broadly, my long-term research goal is to develop embodied AI systems that integrate perception, reasoning, and goal-directed behavior to interact with the world in a human-like manner.
 
 Research Interests
-+ Multi-modal Large Language Models
-+ Graph Representation Learning
+
+- Multi-modal Large Language Models
+- Graph Representation Learning
 
 Academic Services
-+ Conference Reviewer: CVPR'26, ECCV'26, MICCAI'25, etc.
-+ Journal Reviewer: TKDE, TKDD, MTA, etc.
+
+- Conference Reviewer: CVPR'26, ECCV'26, MICCAI'25, etc.
+- Journal Reviewer: TKDE, TKDD, MTA, etc.
