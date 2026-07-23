@@ -22,8 +22,9 @@ announcements:
 
 Research Interests
 
+- Spatial Intelligence
+- Visual Reasoning
 - Multi-modal Large Language Models
-- Graph Representation Learning
 
 Academic Services
 
