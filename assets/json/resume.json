@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Qi Wang",
-    "label": "PhD",
+    "label": "Ph.D.",
     "image": "",
     "email": "qiwang@bit.edu.cn",
     "phone": "",
@@ -15,12 +15,12 @@
       "region": ""
     }
   },
-  "work": [
+  "internships": [
     {
-      "name": "",
-      "position": "",
+      "name": "Tencent",
+      "position": "Research Intern (青云人才计划)",
       "url": "",
-      "startDate": "",
+      "startDate": "2026.06",
       "endDate": "",
       "summary": "",
       "highlights": [""]
@@ -62,20 +62,35 @@
       "awarder": "China's Ministry of Education",
       "url": "",
       "summary": "Roughly top 2% honor for Chinese undergrad/postgrad students."
+    },
+    {
+      "title": "Tencent Rhino-Bird Elite Training Program",
+      "data": "2026",
+      "awarder": "Tencent"
+      "url": "",
+      "summary": ""
     }
   ],
   "publications": [
     {
+      "name": "Noise-resistant graph neural networks for session-based recommendation",
+      "publisher": "APWeb-WAIM",
+      "releaseDate": "2024",
+      "url": "https://link.springer.com/chapter/10.1007/978-981-97-7235-3_10",
+      "summary": ""
+    },
+    {
       "name": "VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning",
       "publisher": "NeurIPS",
       "releaseDate": "2025",
-      "url": "https://arxiv.org/abs/2505.12434",
+      "url": "https://neurips.cc/virtual/2025/loc/san-diego/poster/119996",
       "summary": ""
     },
     {
       "name": "AbductiveMLLM: Boosting Visual Abductive Reasoning within MLLMs",
       "publisher": "AAAI (Oral)",
       "releaseDate": "2026",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/37258",
       "summary": ""
     },
     {
@@ -83,13 +98,6 @@
       "publisher": "SCIENCE CHINA Information Science",
       "releaseDate": "2026",
       "url": "https://arxiv.org/abs/2502.06327",
-      "summary": ""
-    },
-    {
-      "name": "Noise-resistant graph neural networks for session-based recommendation",
-      "publisher": "APWeb-WAIM",
-      "releaseDate": "2024",
-      "url": "https://link.springer.com/chapter/10.1007/978-981-97-7235-3_10",
       "summary": ""
     }
   ],
