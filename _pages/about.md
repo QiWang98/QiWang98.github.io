@@ -28,5 +28,5 @@ Research Interests
 
 Academic Services
 
-- Conference Reviewer: NeurIPS'26, CVPR'26, ECCV'26, MICCAI'25, etc.
+- Conference Reviewer: ICLR'26, NeurIPS'26, CVPR'26, ECCV'26, MICCAI'25, etc.
 - Journal Reviewer: TKDE, TKDD, MTA, etc.
