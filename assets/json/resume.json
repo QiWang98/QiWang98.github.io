@@ -18,7 +18,7 @@
   "internships": [
     {
       "name": "Tencent",
-      "position": "Research Intern (青云人才计划)",
+      "position": "Research Intern (Tencent Project Up, 青云人才计划)",
       "url": "",
       "startDate": "2026.05",
       "endDate": "",
@@ -57,7 +57,7 @@
   "awards": [
     {
       "title": "China National Scholarship for Ph.D. Students",
-      "date": "2025",
+      "date": "2026",
       "awarder": "China's Ministry of Education",
       "url": "",
       "summary": "Roughly top 2% honor for Chinese undergrad/postgrad students."
@@ -68,6 +68,13 @@
       "awarder": "Tencent",
       "url": "",
       "summary": "Only 70+ individuals worldwide were selected for this program."
+    },
+    {
+      "title": "China National Scholarship for Ph.D. Students",
+      "date": "2025",
+      "awarder": "China's Ministry of Education",
+      "url": "",
+      "summary": "Roughly top 2% honor for Chinese undergrad/postgrad students."
     }
   ],
   "publications": [
@@ -82,7 +89,7 @@
       "name": "VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning",
       "publisher": "NeurIPS",
       "releaseDate": "2025",
-      "url": "https://neurips.cc/virtual/2025/loc/san-diego/poster/119996",
+      "url": "https://papers.nips.cc/paper_files/paper/2025/hash/06b71ad997f7e3e4b2e2f2ea12e5a759-Abstract-Conference.html",
       "summary": ""
     },
     {
@@ -120,11 +127,11 @@
   ],
   "projects": [
     {
-      "name": "",
-      "summary": "",
+      "name": "Research on Enhancing Spatial Reasoning Capability of Multimodal Large Models",
+      "summary": "Principal Investigator, Tencent Rhino-Bird Elite Talent Program (2026).",
       "highlights": [""],
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2026.05",
+      "endDate": "2027.07",
       "url": ""
     }
   ]
